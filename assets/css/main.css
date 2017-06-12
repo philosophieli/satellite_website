@@ -2757,7 +2757,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			font-size: 1em;
+			font-size: 1.1em;
 		}
 
 		#header a {
@@ -2769,7 +2769,7 @@
 			padding: 0 0.75em;
 			color: inherit;
 			text-decoration: none;
-			font-size: .8em;
+			font-size: 1.1em;
 		}
 
 			#header a:hover {
@@ -2789,7 +2789,7 @@
 			}
 
 				#header a.navPanelToggle .fa {
-					font-size: 1.25em;
+					font-size: 2.5em;
 				}
 
 				@media screen and (max-width: 980px) {
@@ -2958,7 +2958,7 @@
 		}
 
 		#banner p {
-			font-size: 1em;
+			font-size: 2em;
 			color: rgba(255, 255, 255, 0.55);
 			margin-bottom: 0em;
 		}
