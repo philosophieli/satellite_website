@@ -2815,8 +2815,8 @@
 	@media screen and (max-width: 980px) {
 
 		#header {
-			top: 3em;
-			height: 44px;
+			top: 0em;
+			height: 50px;
 			line-height: 44px;
 		}
 
@@ -2825,7 +2825,7 @@
 	@media screen and (max-width: 736px) {
 
 		#header {
-			top: 2em;
+			top: 0em;
 		}
 
 	}
