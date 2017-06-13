@@ -1658,7 +1658,7 @@
 
 	p {
 		margin: 0 0 2em 0;
-		font-size: 12pt;
+		font-size: 14pt;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1674,16 +1674,16 @@
 		}
 
 	h2 {
-		font-size: 1.75em;
+		font-size: 1.85em;
 		font-weight: 100;
 	}
 
 	h3 {
-		font-size: 1.35em;
+		font-size: 1.55em;
 	}
 
 	h4 {
-		font-size: 1.1em;
+		font-size: 1.3em;
 	}
 
 	h5 {
