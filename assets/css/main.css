@@ -1586,7 +1586,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #9a9a9a;
+		color: #777777;
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -1658,6 +1658,7 @@
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 12pt;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2722,7 +2723,7 @@
 	}
 
 		.subpage #header {
-			background: rgba(255, 255, 255, .7);
+			background: rgba(221, 221, 221, .7);
 			top: 0;
 			height: 44px;
 			line-height: 44px;
@@ -2732,7 +2733,7 @@
 
 	#header {
 		color: #8e0101;
-		background: rgba(255, 255, 255, .5);
+		background: rgba(221, 221, 221, .5);
 		cursor: default;
 		height: 3.25em;
 		left: 0;
