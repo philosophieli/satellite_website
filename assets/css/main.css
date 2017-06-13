@@ -2290,6 +2290,13 @@
 				padding-top: 5em;
 			}
 
+		@media screen and (max-width: 980px) {
+			.image.fit img {
+				width: 100%;
+				padding-top: 0em;
+			}
+		}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
