@@ -2725,8 +2725,8 @@
 		.subpage #header {
 			background: rgba(221, 221, 221, .7);
 			top: 0;
-			height: 44px;
-			line-height: 44px;
+			height: 50px;
+			line-height: 50px;
 			position: fixed;
 			text-align: right;
 		}
@@ -2816,8 +2816,8 @@
 	@media screen and (max-width: 980px) {
 
 		#header {
-			top: 3em;
-			height: 44px;
+			top: 0em;
+			height: 50px;
 			line-height: 44px;
 		}
 
@@ -2826,7 +2826,7 @@
 	@media screen and (max-width: 736px) {
 
 		#header {
-			top: 2em;
+			top: 0em;
 		}
 
 	}
@@ -2834,7 +2834,7 @@
 	@media screen and (max-width: 480px) {
 
 		#header {
-			top: 1em;
+			top: 0em;
 			min-width: 320px;
 		}
 
