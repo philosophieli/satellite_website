@@ -2675,7 +2675,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #6692c8;
+				background-color: #d90000;
 			}
 
 			input[type="submit"].special:active,
@@ -2777,7 +2777,7 @@
 		}
 
 			#header a:hover {
-				color: #ffffff;
+				color: #d90000;
 			}
 
 			#header a:last-child {
