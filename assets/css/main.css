@@ -2718,26 +2718,28 @@
 /* Header */
 
 	.subpage {
-		padding-top: 44px;
+		/*padding-top: 44px;*/
 	}
 
 		.subpage #header {
-			background: #b31b1b;
+			background: rgba(255, 255, 255, .7);
 			top: 0;
 			height: 44px;
 			line-height: 44px;
 			position: fixed;
+			text-align: right;
 		}
 
 	#header {
-		color: #efd4d4;
+		color: #8e0101;
+		background: rgba(255, 255, 255, .5);
 		cursor: default;
 		height: 3.25em;
 		left: 0;
 		line-height: 3.25em;
 		position: absolute;
 		text-align: right;
-		top: 4em;
+		top: 0em;
 		width: 100%;
 		z-index: 10001;
 	}
@@ -2748,7 +2750,7 @@
 		}
 
 		#header .logo {
-			color: #ffffff;
+			color: #8e0101;
 			display: inline-block;
 			font-weight: 600;
 			height: inherit;
@@ -2758,7 +2760,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			font-size: 1.1em;
+			font-size: 1.3em;
 		}
 
 		#header a {
@@ -2770,7 +2772,8 @@
 			padding: 0 0.75em;
 			color: inherit;
 			text-decoration: none;
-			font-size: 1.1em;
+			font-size: 1.3em;
+
 		}
 
 			#header a:hover {
@@ -2946,7 +2949,7 @@
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0.5em solid #b31b1b;
+		/*border-top: 0.5em solid #b31b1b;*/
 	}
 
 		#banner h1 {
