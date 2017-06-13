@@ -2287,7 +2287,15 @@
 
 			.image.fit img {
 				width: 100%;
+				padding-top: 5em;
 			}
+
+		@media screen and (max-width: 980px) {
+			.image.fit img {
+				width: 100%;
+				padding-top: 0em;
+			}
+		}
 
 		.image.main {
 			display: block;
@@ -2496,11 +2504,12 @@
 
 		table td {
 			padding: 0.75em 0.75em;
+			font-size: 14pt;
 		}
 
 		table th {
 			color: #555;
-			font-size: 0.9em;
+			font-size: .9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
