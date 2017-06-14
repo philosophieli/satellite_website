@@ -1,0 +1,14 @@
+Directions On How To Add a New Year Of Students To Past Participants
+
+1. Edit the "participants.txt" file so that it contains the name of the student then a tab then the college of the student then a newline 
+***DO NOT PUT A NEW LINE AT THE END OF THE LAST LINE***
+(ex. the current format of the file)
+
+2. Run the python script entitled "participant_table_generator.py"
+
+3. When you are prompted enter the title of the table, usually the season followed by the year (ex. Summer 2017)
+
+4. Once the script has completed copy the results from the "participants.txt" file and paster them between line 40 and 41 in the "participants.html" file
+***BE SURE TO PREFORM THE PASTE RIGHT AGAINST THE LEFT BORDER OF THE SCREEN IN OTHER WORDS WHEN YOU PAST HAVE NO TABS ON THE LINE WHEN YOU PASTE***
+
+5. Check the results by opening the "participants.html" file in a web browser
