@@ -1,6 +1,6 @@
 Directions On How To Add a New Year Of Students To Past Participants
 
-1. Edit the "participants.txt" file so that it contains the name of the student then a tab then the college of the student then a newline 
+1. Edit the "participants.txt" file so that it contains the name of the student then a tab then the college of the student then a new line 
 ***DO NOT PUT A NEW LINE AT THE END OF THE LAST LINE***
 (ex. the current format of the file)
 
